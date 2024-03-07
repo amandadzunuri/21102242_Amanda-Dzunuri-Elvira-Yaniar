@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
     char op;
-    float num1, num2;nnn
+    float num1, num2;
 
     cout<< "Enter operator (+,-,*, /)";
     cin>>op;
