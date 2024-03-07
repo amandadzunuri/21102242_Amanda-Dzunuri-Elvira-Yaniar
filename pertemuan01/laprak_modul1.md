@@ -196,7 +196,6 @@ int main(){
     return 0;
 }
 ```
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
 
 #### Output:
 ![image](https://github.com/amandadzunuri/21102242_Amanda-Dzunuri-Elvira-Yaniar/assets/53622335/b219c93d-bfab-46ea-bda4-97347ec422ee)
@@ -245,8 +244,6 @@ int main() {
 ```
 #### Output:
 ![image](https://github.com/amandadzunuri/21102242_Amanda-Dzunuri-Elvira-Yaniar/assets/53622335/b219c93d-bfab-46ea-bda4-97347ec422ee)
-
-Kode di atas digunakan untuk mencetak teks "ini adalah file code guided praktikan" ke layar menggunakan function cout untuk mengeksekusi nya.
 
 ## Kesimpulan
 Ringkasan dan interpretasi pandangan kalia dari hasil praktikum dan pembelajaran yang didapat[1].
